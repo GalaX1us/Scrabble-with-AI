@@ -38,6 +38,7 @@ Here are the things to do to have a better game and a better code :
 # Screenshots of the game
 ![image](https://user-images.githubusercontent.com/75265945/167265180-f13690ec-2fd1-4ffe-814b-10b9d5912f4e.png)
 ![image](https://user-images.githubusercontent.com/75265945/167265198-6c30b822-445f-4b01-9aa2-ee296aed3c26.png)
-![image](https://user-images.githubusercontent.com/75265945/167265395-d1a0da81-8f23-4c7b-8703-6023e8b8ce24.png)
+![image](https://user-images.githubusercontent.com/75265945/167265423-8b1acb2d-fac6-463a-b670-578d02fcf8b8.png)
+
 
 

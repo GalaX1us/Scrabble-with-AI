@@ -3,8 +3,9 @@ This is a complete Scrabble game with AI and GUI
 
 This project was originally a school project that I developed on my own. That's why you won't find any class in the code because they were not allowed.
 
-This Scrabble game can be played in two different ways: - in the terminal (part of the school projet)
-                                                        - with a GUI (on my own)
+This Scrabble game can be played in two different ways: 
+  - in the terminal (part of the school projet)
+  - with a GUI (on my own)
 This program respects 100% of the rules of scrabble, whether it is the way in which the players' turn is managed or the verification of the validity of the words.
 
 In addition to the basic rules and functionalities of Scrabble I personally added some options that I found useful.

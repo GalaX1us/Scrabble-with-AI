@@ -12,7 +12,8 @@ This program respects 100% of the rules of scrabble including :
   - the way in which the players' turn is managed
   - verification of the validity of the word placement on the board
   - the way points are counted and bonuses
-  - Here I use the French dictionary
+
+NB : Here I use the French dictionary
 
 # Additional features :
 In addition to the basic rules and functionalities of Scrabble I personally added some options that I found useful.

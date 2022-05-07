@@ -36,9 +36,16 @@ Here are the things to do to have a better game and a better code :
   - improve the update of the game board in GUI mode to avoid flickering
 
 # Screenshots of the game
+Main menu:
 ![image](https://user-images.githubusercontent.com/75265945/167265180-f13690ec-2fd1-4ffe-814b-10b9d5912f4e.png)
+
+Players selection menu:
 ![image](https://user-images.githubusercontent.com/75265945/167265198-6c30b822-445f-4b01-9aa2-ee296aed3c26.png)
+
+In-game menu:
 ![image](https://user-images.githubusercontent.com/75265945/167265423-8b1acb2d-fac6-463a-b670-578d02fcf8b8.png)
+
+Endgame screen:
 
 
 

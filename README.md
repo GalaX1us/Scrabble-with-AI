@@ -12,6 +12,7 @@ This program respects 100% of the rules of scrabble including :
   - the way in which the players' turn is managed
   - verification of the validity of the word placement on the board
   - the way points are counted and bonuses
+  - Here I use the French dictionary
 
 # Additional features :
 In addition to the basic rules and functionalities of Scrabble I personally added some options that I found useful.
@@ -22,13 +23,21 @@ In addition to the basic rules and functionalities of Scrabble I personally adde
     - change your hand at will
     - force the placement of a word even if it is not considered valid
   - I have added the possibility to add up to 4 AI to fill the 4 available places (2 human 2 AI for example).
-  - At the beginning of the game each AI can be set on 3 different difficulties (Normal, Hard, Extreme). it's quite funny to be able to watch a game with 4 AI.
+  - At the beginning of the game each AI can be set on 2 different difficulties (Normal, Extreme). it's quite funny to be able to watch a game with 4 AI.
   - At each turn, the players (human) can ask for help from the game. You can ask for two different types of help: 
     - a random word that you can put from the words in your hand and from the words on the board.
     - the best word that can be put (the one that gives the most points).
+   -  
 
 # Ways to improve
 Here are the things to do to have a better game and a better code :
   - create classes to have a cleaner and more readable code (I only i could ^^)
-  - partitioning of possible word searches to improve AI speed and word placement assistance
+  - partitioning of possible word searches to improve AI speed and word placement assistance ()
   - improve the update of the game board in GUI mode to avoid flickering
+
+# Screenshots of the game
+![image](https://user-images.githubusercontent.com/75265945/167265180-f13690ec-2fd1-4ffe-814b-10b9d5912f4e.png)
+![image](https://user-images.githubusercontent.com/75265945/167265198-6c30b822-445f-4b01-9aa2-ee296aed3c26.png)
+![image](https://user-images.githubusercontent.com/75265945/167265395-d1a0da81-8f23-4c7b-8703-6023e8b8ce24.png)
+
+

@@ -7,7 +7,10 @@ This Scrabble game can be played in two different ways:
   - in the terminal (part of the school projet)
   - with a GUI (on my own)
 
-This program respects 100% of the rules of scrabble, whether it is the way in which the players' turn is managed or the verification of the validity of the words.
+This program respects 100% of the rules of scrabble including :
+  - the way in which the players' turn is managed
+  - verification of the validity of the word placement on the board
+  - the way points are counted and bonuses
 
 In addition to the basic rules and functionalities of Scrabble I personally added some options that I found useful.
 Here is the list :

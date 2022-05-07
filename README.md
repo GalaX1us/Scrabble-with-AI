@@ -2,6 +2,7 @@
 This is a complete Scrabble game with AI and GUI
 
 This project was originally a school project that I developed on my own. That's why you won't find any class in the code because they were not allowed.
+The school project itself required very little in the way of rules. But I didn't like the idea of making a half-finished game, so I preferred to respect the rules in their entirety and even add some cool features.
 
 This Scrabble game can be played in two different ways: 
   - in the terminal (part of the school projet)

@@ -27,13 +27,17 @@ In addition to the basic rules and functionalities of Scrabble I personally adde
   - At each turn, the players (human) can ask for help from the game. You can ask for two different types of help: 
     - a random word that you can put from the words in your hand and from the words on the board.
     - the best word that can be put (the one that gives the most points).
-   -  
+
+# How to play
+  - Lauch main.py to play in the terminal
+  - Lauch AffichageGraphique.py to play with the GUI
 
 # Ways to improve
 Here are the things to do to have a better game and a better code :
   - create classes to have a cleaner and more readable code (I only i could ^^)
   - partitioning of possible word searches to improve AI speed and word placement assistance ()
   - improve the update of the game board in GUI mode to avoid flickering
+  - make an executable file
 
 # Screenshots of the game
 **Main menu:**

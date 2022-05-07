@@ -44,11 +44,13 @@ Players selection menu:
 
 ![image](https://user-images.githubusercontent.com/75265945/167265198-6c30b822-445f-4b01-9aa2-ee296aed3c26.png)
 
-In-game menu:
+In-game menu (here I asked for help to see the best possible word):
 
-![image](https://user-images.githubusercontent.com/75265945/167265423-8b1acb2d-fac6-463a-b670-578d02fcf8b8.png)
+![image](https://user-images.githubusercontent.com/75265945/167265750-11b1f4de-ecc4-4941-a4e3-3fc5e79fe379.png)
 
 Endgame screen:
+![image](https://user-images.githubusercontent.com/75265945/167265785-744fb831-eeed-4fb2-8eee-44d818cacf8c.png)
+
 
 
 

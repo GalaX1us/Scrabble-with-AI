@@ -13,7 +13,7 @@ This program respects 100% of the rules of scrabble including :
   - the way points are counted and bonuses
 
 In addition to the basic rules and functionalities of Scrabble I personally added some options that I found useful.
-Here is the list :
+# Additional features :
   - The ability to save games along the way to a save file so you can pick up the game later where it left off
   - You can activate on each player (human) the "developer mode" which allows to have access to additional features during the games :
     - to forcefully end the game
@@ -24,3 +24,5 @@ Here is the list :
   - At each turn, the players (human) can ask for help from the game. You can ask for two different types of help: 
     - a random word that you can put from the words in your hand and from the words on the board.
     - the best word that can be put (the one that gives the most points).
+
+ways to improve

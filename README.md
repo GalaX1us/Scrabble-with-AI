@@ -28,3 +28,7 @@ In addition to the basic rules and functionalities of Scrabble I personally adde
     - the best word that can be put (the one that gives the most points).
 
 # Ways to improve
+Here are the things to do to have a better game and a better code :
+  - create classes to have a cleaner and more readable code (I only i could ^^)
+  - partitioning of possible word searches to improve AI speed and word placement assistance
+  - improve the update of the game board in GUI mode to avoid flickering

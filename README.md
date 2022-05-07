@@ -1,4 +1,4 @@
-# Scrabble-with-AI-
+# Scrabble with AI
 This is a complete Scrabble game with AI and GUI
 
 This project was originally a school project that I developed on my own. That's why you won't find any class in the code because they were not allowed.

@@ -44,7 +44,7 @@ __**Players selection menu:**__
 
 ![image](https://user-images.githubusercontent.com/75265945/167265198-6c30b822-445f-4b01-9aa2-ee296aed3c26.png)
 
-__**In-game menu (here I asked for help to see the best possible word):**__
+__**__In-game menu (here I asked for help to see the best possible word):**__
 
 ![image](https://user-images.githubusercontent.com/75265945/167265750-11b1f4de-ecc4-4941-a4e3-3fc5e79fe379.png)
 

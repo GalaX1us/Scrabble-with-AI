@@ -35,7 +35,8 @@ In addition to the basic rules and functionalities of Scrabble I personally adde
 
 # Ways to improve
 Here are the things to do to have a better game and a better code :
-  - create classes to have a cleaner and more readable code (I only i could ^^)
+  - create classes to have a cleaner and more readable code (I wish i could ^^)
+  - use more advanced data structures to improve the overall complexity of the program. Priority queues for the ranking of the highest scoring words for example.
   - partitioning of possible word searches to improve AI speed and word placement assistance ()
   - improve the update of the game board in GUI mode to avoid flickering
   - make an executable file

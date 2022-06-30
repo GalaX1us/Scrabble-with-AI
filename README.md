@@ -6,7 +6,7 @@ The school project itself required very little in the way of rules. But I didn't
 
 This Scrabble game can be played in two different ways: 
   - in the terminal (part of the school projet)
-  - with a GUI (on my own)
+  - with a GUI (on my own with tkinter)
 
 This program respects 100% of the rules of scrabble including :
   - the way in which the players' turn is managed
